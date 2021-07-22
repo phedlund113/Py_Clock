@@ -16,8 +16,8 @@ Table of Contents:
 * py_clock.pyw
 * py_clock.ini
 
-![Py_clock Analog](https://raw.github.com/phedlund113/py_clock/py_clock1.png)
+![Py_clock Analog](https://raw.github.com/phedlund113/py_clock/blob/main/py_clock1.png)
 
-![Py_clock Setup](https://raw.github.com/phedlund113/py_clock/py_clock2.png)
+![Py_clock Setup](https://raw.github.com/phedlund113/py_clock/blob/main/py_clock2.png)
 
-![Py_clock Digital](https://raw.github.com/phedlund113/py_clock/py_clock3.png)
+![Py_clock Digital](https://raw.github.com/phedlund113/py_clock/blob/main/py_clock3.png)
