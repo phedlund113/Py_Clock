@@ -11,7 +11,7 @@ Library Modules Needed :
 * mylib/seven_seg
 
 Description: Analog/Digital clocks with alarms. Using the setting button will allow
-the user to set up to 8 alarms (hH:MM:SS), Select between analog and digital display, optionally decide to save the position so it remembers where to start and finally Select the color of the digital clock. 
+the user to set up to 8 alarms (HH:MM:SS), Select between analog and digital display, optionally decide to save the position so it remembers where to start and finally Select the color of the digital clock. 
 
 Table of Contents: 
 * py_clock.pyw
